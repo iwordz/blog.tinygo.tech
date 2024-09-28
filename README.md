@@ -1,4 +1,5 @@
 [东白随记](blog.tinygo.tech)
+
 [CAP怎么选](https://blog.tinygo.tech/article/7981)
 
 [Kafka是如何实现高吞吐率的](https://blog.tinygo.tech/article/7979)
