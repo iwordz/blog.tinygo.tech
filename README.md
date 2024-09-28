@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://blog.tinygo.tech">东白随记</a>
+<a title="https://blog.tinygo.tech"  href="https://blog.tinygo.tech" target="_blank" rel="noopener noreferrer">东白随记</a>
 </p>
 
 [东白随记](https://blog.tinygo.tech)
