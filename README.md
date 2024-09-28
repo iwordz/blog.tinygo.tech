@@ -1,4 +1,4 @@
-[东白随记](blog.tinygo.tech)
+[东白随记](https://blog.tinygo.tech)
 
 [CAP怎么选](https://blog.tinygo.tech/article/7981)
 
